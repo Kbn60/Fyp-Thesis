@@ -2,12 +2,15 @@
 This repository contain the pdf file of the Thesis Final Year Project of BSCS Program.
 
 **Tile of the Project:** 
-    MEDICINE PRESCRIPTION USING VISUAL PRESENTATION: AN ANDROID AND DESKTOP BASED APPLICATION
+
+    MEDICINE PRESCRIPTION USING VISUAL PRESENTATION: 
+        AN ANDROID AND DESKTOP BASED APPLICATION
     
    
 **Use Cases:**
 
   - Desktop Application (For Pharmacist and Doctors: The main stakeholders of the application.)
+  
       * Adding medicines to database
       * Add prescription
       * Search prescription
@@ -15,10 +18,12 @@ This repository contain the pdf file of the Thesis Final Year Project of BSCS Pr
       * Search patients
    
    - Android Application
+  
       * Login
       * Set alarm
       * View state
       * View prescription
+
 
 **Contribution:**
 
