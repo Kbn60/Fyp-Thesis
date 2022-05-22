@@ -1,8 +1,8 @@
 # fyp
 This repository contain the pdf file of the Thesis Final Year Project of BSCS Program.
 
-Tile of the project:
-**    "Medicine Prescription Automation using Visual Presentation"**
+**Tile of the project: **
+  Medicine Prescription Automation using Visual Presentation
 
 **Use Cases:**
 
